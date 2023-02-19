@@ -17,7 +17,7 @@ cursor.execute("DROP TABLE IF EXISTS EMPLOYEE")
 # except:
 #    connection.rollback()
 
-token = "5702626648:AAH2yhTvTtUD2_GDvC6EYp-ZEJYgT2Sb1sk"
+token = ""
 
 bot = telebot.TeleBot(token)
 
